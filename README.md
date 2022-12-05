@@ -17,3 +17,7 @@
 * npm install boxicons --save
 * npm install -D tailwindcss
 * npm install @reduxjs/toolkit react-redux
+
+# RUN
+
+* npm run dev
