@@ -13,3 +13,6 @@
 * npm i axios
 * npm i react-router-dom
 * npm i react-hook-form
+* npm install boxicons --save
+* npm install -D tailwindcss
+* npm install @reduxjs/toolkit react-redux
